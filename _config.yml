@@ -1,0 +1,23 @@
+name: Kamp
+favicon: null
+layout_spectrum: 0.1401031652931124
+typography_spectrum: 0.9449491261038929
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7349820991512388
+  lightness: 0.314356409246102
+  saturation: 0.37778175505809486
+  rhythmicContrast: 0.47069862578064203
+purpose: []
